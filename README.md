@@ -1,3 +1,3 @@
 # myCafe
 
-https://luanaferreir4.github.io/myCafe/
+https://luanaferreir4.github.io/myCoffee/
